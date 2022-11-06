@@ -17,11 +17,11 @@ _Todas las dependencias estan incluidas en el repositorio._
 
 #### Windows
 
-1. Clonar el repositorio:
+Clonar el repositorio:
 
     git clone https://github.com/jorgesc231/lista_tareas_nuklear.git
 
-2. Abrir la Solucion con Visual Studio 2019 y Compilar.
+Abrir la Solucion con Visual Studio 2019 y compilar.
 
 
 #### Linux
